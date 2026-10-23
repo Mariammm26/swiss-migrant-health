@@ -1,0 +1,16 @@
+variable,missing_count,missing_pct
+essround,0,0
+cntry,0,0
+pspwght,0,0
+brncntr,0,0
+health,0,0
+eisced,0,0
+hinctnta,0,0
+agea,0,0
+gndr,0,0
+migrant,0,0
+poor_health,0,0
+age,38,0.64
+gender,0,0
+education,17,0.28
+income,1076,18.04
